@@ -13,7 +13,7 @@ Promotes a better model atomically
 
 Serves predictions via a single FastAPI service
 
-The service always serves the latest promoted production model, satisfying all requirements of the assessment.
+The service always serves the latest promoted production.
 
 High-Level Architecture
 CSV → Validate → Train → Evaluate → Promote → Serve
