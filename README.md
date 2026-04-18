@@ -1,5 +1,5 @@
-ML Model Pipeline with Atomic Promotion & FastAPI Serving
-Overview
+#### ML Model Pipeline with Atomic Promotion & FastAPI Serving
+##### Overview
 
 This project implements a small, reproducible end-to-end machine learning service that:
 
